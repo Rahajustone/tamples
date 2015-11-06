@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.raha1 {
+	 border: 2px solid black;
+    opacity:1;
+     /* For IE8 and earlier */
+}
+.raha2{
+	 margin-top: -100px;
+	 margin-left: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+
+}
+
+
+
+</style>
+</head>
+<body>
+
+<h1>Image Transparency</h1>
+<div class='raha1'>
+<img src="/home/raha/Desktop/raha.png" width="450" height="223" alt="klematis">
+<div class='raha2'>
+	i must be on the photo
+	</div>
+</div>
+
+
+<span>
+<p><b>Note:</b> In IE, a !DOCTYPE must be added for the :hover selector to work on other elements than the a element.</p>
+</span></body>
+
+<!-- Mirrored from www.w3schools.com/css/tryit.asp?filename=trycss_image_transparency by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jun 2015 22:47:11 GMT -->
+</html>

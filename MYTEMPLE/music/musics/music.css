@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(34,200,100,0.3);                   
+    background-attachment: fixed;
+    margin: auto;
+    margin-top: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+   
+    
+}
+div.header {
+    background-color:lightblue;
+    border-radius: 5px;
+    border:2px solid black;
+}
+div.logo {
+    position: initial;
+    top:0px;;
+    left: 5px;
+
+}
+div.afterlogo {
+    float:right;
+    position: absolute;
+    top: 0px;
+    right: 150px;
+ 
+
+}
+div.sidebar {
+}
+
+
+
+
+
+
+

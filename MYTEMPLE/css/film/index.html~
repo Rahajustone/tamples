@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Filsm</title>
+<link rel="stylesheet" href="/home/raha/Desktop/web/film/index.css">
+</head>
+<body>
+	<div class="title"><h2 class="title1">filmho ba zaboni tojiki<h2>
+			Kinoho bo zaboni tojiki		</div>
+<div class='navigator'>
+<ul class="navigator1">
+  <li><a href="#home" class="navigator2">Asosi</a></li>
+  <li><a href="#news" class="navigator2">50-Film</a></li>
+  <li><a href="#contact"  class="navigator2">Xoriji</a></li>
+  <li><a href="#about"  class="navigator2">Tojiki</a></li>
+  <li><a href=''  class="navigator2">Russi</a></li>
+  <li><a href="#about"  class="navigator2">Solho</a></li>
+
+</ul>
+</div>
+<div class="image">
+	<p>foto insu onsu meravan</p>
+</div>
+<div class="janri">
+	<ul class="janri1">
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li><li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+		<li> <a href=""></li>
+	</ul>
+	</div>
+
+</body>
+</html>

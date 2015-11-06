@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div {
+    width: 800px;
+    height: 800px;
+    background-color: red;
+    position: relative;
+    
+}
+    p {
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    animation-name: example;
+    animation-duration: 4s;
+    }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes example {
+    0%   {padding-left: 30ps;}
+    25%  { padding-left:60px;  }
+    50%  {padding-left: 100px;}
+    75%  {text-align: center;}
+    100% {text-align: right;}
+}
+
+/* Standard syntax */
+@keyframes example {
+  0%   {padding-left: 30ps;}
+    25%  { padding-left:60px;  }
+    50%  {padding-left: 100px;}
+    75%  {text-align: center;}
+    100% {text-align: right;}
+}
+</style>
+</head>
+<body>
+
+<p><b>Note:</b> This example does not work in Internet Explorer 9 and earlier versions.</p>
+
+<div> <p class="ragha" id="raha1">my name is raha </p> </div>
+
+</body>
+
+<!-- Mirrored from www.w3schools.com/css/tryit.asp?filename=trycss3_animation3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jun 2015 22:47:18 GMT -->
+</html>
+

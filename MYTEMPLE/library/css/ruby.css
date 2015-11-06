@@ -1,0 +1,12 @@
+
+table.table1{
+	border-collapse: collapse;
+	margin-left: 15px;
+	
+}
+table.table1 tr td  {
+	
+	border:3px solid blue;
+
+
+}

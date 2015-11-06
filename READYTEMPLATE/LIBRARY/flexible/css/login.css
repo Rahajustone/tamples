@@ -1,0 +1,27 @@
+body {
+    background-color:rgba(0,0,320,0.4);
+    border:10px;
+    margin: 10ppx;
+    
+    
+}
+div {
+    max-width: 360px;
+    max-height: 300px;
+    margin-bottom: ;
+    margin-left: 200px;
+    margin-right: 50px;;
+    margin-top: 60px;
+    float: right;
+   
+    
+}
+
+input {
+    float: right;
+}
+table tr td {
+    color:green;
+    font-size: 25px;
+    font-style: italic;
+}

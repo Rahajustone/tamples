@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.navbvar
+{
+
+
+
+}
+ol,li  {
+  margin-top:2px; 
+
+  list-style-type: none;
+  display: inline;
+  
+  padding-right: 2px;
+
+
+
+ 
+}
+a {
+  text-transform: capitalize;
+
+ 
+  background-color: chartreuse;
+  float: left;
+  
+  text-decoration: none;
+  width: 120px;
+}
+a:hover {
+  color: red;
+  background-color: yellow;
+}
+
+</style>
+</head>
+<body>
+  <div class="navbvar">
+  <ol> <li><a href=''>HOME</li>
+    <li><a href=''>ABOUT</li>
+    <li><a href=''> ARTICLE</li>
+        <li><a href=''> FORUM</li>
+          <li><a href=''> CONTACT</li>
+            <li><a href=''>ABOUT</li>
+  </ol> 
+  </div>
+
+
+
+</body>
+
+<!-- Mirrored from www.w3schools.com/css/tryit.asp?filename=trycss_float6 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jun 2015 22:47:11 GMT -->
+</html>

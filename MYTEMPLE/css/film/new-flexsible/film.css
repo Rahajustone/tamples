@@ -1,0 +1,127 @@
+/*========LAYOUT SECTION================== */
+body{ 
+    
+    background-color:rgba(0,250,50,0.1);
+    margin: 0px;
+    font-family: Verdana, Georgia, serif;
+}
+
+#header {
+    background-color:rgb(0,250,50);
+    margin: 10px;
+    height:60px;
+    border-radius: 10px;
+ 
+    } 
+#headerdown {
+    background-color: rgb(0,230,50);
+    margin: 10px;
+    height: 90px;
+    border-radius:10px;
+}
+#headerdown ol li {
+    float: right;
+    margin: 5px;
+}
+.navbar {
+    background-color:rgba(0,230,50,0.5);
+    margin: 10px;
+    border-radius: 9px;
+     text-align: center;
+      padding: 1px;
+    
+    
+    
+}
+.navbar ul  li{
+    padding: 10px;
+    list-style-type: none;
+     display: inline;  
+}
+a.navbar2 {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px;
+    width: 160px;
+    
+    
+}
+
+a.navbar2:link, a.navbar2:visited {
+   
+  
+    font-weight: bold;
+    
+   
+}
+
+a.navbar2:hover, a.navbar2:active {
+    background-color: greenyellow;
+   border-radius: 15px;
+   
+}
+
+
+.sidebarleft {
+    background-color:rgba(0,230,50,1); 
+    margin-left: 10px;
+    margin-top: px;
+    border-radius: 5px;
+    padding: 10px;
+     width: 150px;
+ 
+    
+}
+.main {
+    background-color: bisque;
+    margin-left: 190px;
+    margin-right: 190px;;
+    margin-top: -545px;
+    border:1px solid;
+    float: right;
+    clear: right;
+  
+    
+    
+    
+}
+.sidebarright {
+    background-color:rgba(0,230,50,1); 
+    margin-top: 0;
+    margin-left: 5px;
+    margin-right: 10px;
+    padding:10px ;
+    border-radius: 5px;
+    width: 150px;
+    float: right;
+    clear: right;
+    
+}
+#footer {
+    background-color: antiquewhite;
+    margin:10px;
+    text-align: center;
+    padding: 10px;
+    font-size: 90%;
+    clear: both;
+        
+}
+
+/*========HEADING SECTION================== */
+h2.title1 {
+    color: whitesmoke;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    margin: 0px;
+    position: relative;
+    top: 50%;
+    -webkit-transform:translateY(-50%);
+    -moz-transform:translateY(-50%);
+    transform:translateY(-50%);
+    
+}
+p.footer{
+}

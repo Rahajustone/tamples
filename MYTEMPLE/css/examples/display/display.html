@@ -1,0 +1,41 @@
+<html>
+<head>
+	<STYLE>
+	body {
+		background-color: rgb(110,200,30);
+	}
+	ul.show li {
+		display:inline;
+
+	}
+	ul.hidden {
+		
+		visibility: hidden;
+	}
+
+
+	</STYLE>
+
+</head>
+<body>
+	<ul class='show'>
+		<li>home</li>
+		<li  onmouseover="showoff()" id="aa">about
+			<ul class='hidden'>
+
+		<li>home</li>
+		<li>about</li>
+	</ul>
+		</li>
+	</ul>
+	<script>
+function showoff() {
+
+    document.getElementById("aa").style.height = "64px";
+    document.getElementById("aa").style.width = "64px";
+    document.getElementById("aa").style.visibility='visibility';
+}
+
+</script>
+</body>
+</html>

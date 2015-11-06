@@ -1,0 +1,85 @@
+/* design baroi saythoi filmho*/
+body{ 
+
+	padding-left:10px;
+	padding-right: 10px;
+	right: 25px;
+	
+
+	
+}
+div.title{
+	color: rgb(0,0,250);
+	
+	
+	text-align: center;
+	text-indent: -15px;
+	text-decoration: 1px;
+	border:  solid;
+	background-color: rgb(250,255,100);
+	border-height: 25px;
+	content-width: 360px;
+	line-height: 5px;
+	border-style: solid;
+} 
+div.navigator{
+
+	
+	
+}
+ ul.navigator1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a.navigator2:link, a.navigator2:visited {
+    display: block;
+    width: 160px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.navigator2:hover, a.navigator2:active {
+    background-color: #7A991A;
+}
+div.image {
+	;
+	border: rgb(220,220,0);
+	
+	background-color: rgb(300,100,0);
+	border-width:300px;
+	border-height: 25px;
+	content-width: 360px; 
+	width: 1024px;
+	height: 100px;
+	margin-left: 150px;
+	margin-top: 5px;
+	margin-right: 60px;
+	padding-right:20px;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top:5px;
+	border-right:20px 
+
+}
+div.janri{
+
+}
+ul.janri1{
+
+}
+ 
+
+
+
